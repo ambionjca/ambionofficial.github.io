@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta name="viewport" content="with=device-width, intial scale=1.0">
+      <title> Hobbies </title>
+      <link rel="stylesheet" href="styles.css">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section class="sub-header">
+	<nav>
+	<div class="nav-links">
+	    <ul>
+		<li><a href="website.html">HOME</a></li>
+		<li><a href="about.html">ABOUT</a></li>
+		<li><a href="hobbies.html">HOBBIES</a></li>
+		<li><a href="contact.html">CONTACT</a></li>
+	    </ul>
+        </div>
+     </nav>
+     <h1>Hobbies</h1>
+   </section>
+
+<!---------- Hobbies -------->
+<section class="about-us">
+
+    <div class="row">
+	<div class="about-col">
+         <h1>Playing Computer Games</h1>
+	 <p>I very liked playing computer games because it ease my mind and it helps me relieve some stress.</p>
+  </div>
+  <div class="about-col">
+     <img src="images/playing.jpg">
+  </div>
+         <h1>Playing Badminton</h1>
+	 <p>I also play sports like Badminton because it help me to exercise my muscles.</p>
+  </div>
+  <div class="about-col">
+     <img src="images/Badminton.jpg">
+  </div>
+</div>
+
+</section>
+
+
+
+
+</body>
+</html>
